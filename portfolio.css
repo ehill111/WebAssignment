@@ -4,13 +4,18 @@
 #wrapper {
 	width: 100%;
 	margin: auto;
-	background-image: url("C:\Users\ehill\Pictures\WebDev/OnesAndZeroes-2000x1460.jpg");
+	background-image: url("C:/Users/ehill/Pictures/WebDev/OnesAndZeroes-1000x730.jpg");
 	background-repeat: repeat;
 	border: solid 2px black;
 	border-radius: 10px 10px 10px 10px;
 	}
+/*#navbar {
+			background-image: url("C:/Users/ehill/Pictures/WebDev/OnesAndZeroes-2000x1460.jpg");
+			background-repeat: repeat;*
+			height: 100px;
+		}*/
 h1 {
-	color: red;
+	color: #ffffaa;
 	}
 nav {
 	display: flex;
@@ -21,7 +26,7 @@ nav {
 	border-radius: 5px;
 	border-bottom: 2px solid white;
 	background-color: /*#b3c6ff;*/black;
-	background-image: url("C:\Users\ehill\Pictures\WebDev/OnesAndZeroes-187x125.jpg");
+	background-image: url("C:/Users/ehill/Pictures/WebDev/OnesAndZeroes-187x125.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-decoration: none;
