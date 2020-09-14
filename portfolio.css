@@ -17,6 +17,10 @@
 h1 {
 	color: #ffffaa;
 	}
+
+.my-row {
+			color: #ffffaa;
+		}
 nav {
 	display: flex;
 }
