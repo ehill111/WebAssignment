@@ -15,7 +15,7 @@
 			height: 100px;
 		}*/
 h1, h2, h3 {
-	color: #ffffff;
+	color: #ffffaa;
 	}
 
 .my-row {
@@ -46,10 +46,10 @@ a:hover, a:focus, a:active {
 .my-col-footer1, .my-col-footer2, .my-col-footer3 {
 	text-align: center;
 }
-.my-col-photo {
+/*.my-col-photo {
 	width: 100%;
 	height: auto;
-}
+}*/
 /*.flex-about {
 	display: flex;
     flex-wrap: wrap;
