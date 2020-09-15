@@ -46,6 +46,9 @@ a:hover, a:focus, a:active {
 .my-col-footer1, .my-col-footer2, .my-col-footer3 {
 	text-align: center;
 }
+.my-col-photo {
+	width: 100%;
+}
 .my-col-footer2 > a {
 	color: #ffffaa;
 }
