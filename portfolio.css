@@ -2,8 +2,8 @@
 	box-sizing: border-box;
 }
 #wrapper {
-	width: 100%;
-	margin: auto;
+	/*width: 100%;
+	margin: auto;*/
 	background-image: url("C:/Users/ehill/Pictures/WebDev/OnesAndZeroes-1000x730.jpg");
 	background-repeat: repeat;
 	border: solid 2px black;
@@ -14,8 +14,8 @@
 			background-repeat: repeat;*
 			height: 100px;
 		}*/
-h1 {
-	color: #ffffaa;
+h1, h2, h3 {
+	color: #ffffff;
 	}
 
 .my-row {
@@ -48,7 +48,41 @@ a:hover, a:focus, a:active {
 }
 .my-col-photo {
 	width: 100%;
+	height: auto;
+}
+/*.flex-about {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}*/
+.photo-inline {
+	display: block;
 }
 .my-col-footer2 > a {
 	color: #ffffaa;
+}
+.Eric {
+	border-radius: 20px;
+}
+.my-col-contact, .my-col-projects, .my-col-about, .my-col-greeting {
+	text-align: center;
+	font-size: 8em;
+}
+/*.my-col-projects {
+	text-align: center;
+	font-size: 8em;
+}
+.my-col-about {
+	text-align: center;
+	font-size: 8em;
+}
+.my-col-greeting {
+	text-align: center;
+	font-size: 8em;
+}*/
+.figcaption {
+	text-align: center;
+}
+.my-card-text {
+	color: black;
 }
