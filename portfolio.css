@@ -4,8 +4,10 @@
 #wrapper {
 	/*width: 100%;
 	margin: auto;*/
-	background-image: url("C:/Users/ehill/Pictures/WebDev/OnesAndZeroes-1000x730.jpg");
-	background-repeat: repeat;
+	background-image: url("images/bground-2012x1509.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 	border: solid 2px black;
 	border-radius: 10px 10px 10px 10px;
 	}
@@ -30,7 +32,7 @@ nav {
 	border-radius: 5px;
 	border-bottom: 2px solid white;
 	background-color: /*#b3c6ff;*/black;
-	background-image: url("C:/Users/ehill/Pictures/WebDev/OnesAndZeroes-187x125.jpg");
+	background-image: url("images/OnesAndZeroes-187x125.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-decoration: none;
@@ -40,7 +42,7 @@ nav {
 	width: 100%;
 	}
 a:hover, a:focus, a:active {
-	color: red;
+	color: white;
 	text-decoration: none;
 }
 .my-col-footer1, .my-col-footer2, .my-col-footer3 {
@@ -66,7 +68,7 @@ a:hover, a:focus, a:active {
 }
 .my-col-contact, .my-col-projects, .my-col-about, .my-col-greeting {
 	text-align: center;
-	font-size: 8em;
+	font-size: 8.5em;
 }
 /*.my-col-projects {
 	text-align: center;
