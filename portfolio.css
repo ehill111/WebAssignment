@@ -48,10 +48,9 @@ a:hover, a:focus, a:active {
 .my-col-footer1, .my-col-footer2, .my-col-footer3 {
 	text-align: center;
 }
-/*.my-col-photo {
-	width: 100%;
-	height: auto;
-}*/
+.my-col-photo {
+	
+}
 /*.flex-about {
 	display: flex;
     flex-wrap: wrap;
@@ -87,4 +86,8 @@ a:hover, a:focus, a:active {
 }
 .my-card-text {
 	color: black;
+}
+.img-fluid {
+	max-width: 100%;
+	height: auto;
 }
